@@ -5,4 +5,4 @@
 > Ce site fera l'objet de mises à jour régulières en fonction de notre avancement dans le programme.  
 > Tu seras donc amener à le consulter fréquemment.
   
-#### <ins>Premier conseil de l'année :</ins> ajoute-le à tes favoris
+### <ins>Premier conseil de l'année :</ins> ajoute-le à tes favoris
