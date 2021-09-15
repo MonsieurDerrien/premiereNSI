@@ -32,7 +32,7 @@
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python  
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
-    <ins>Séance 6 :</ins> boucle non bornées ; instruction "while" en langage Python
+    <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
     
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité
 
