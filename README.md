@@ -30,7 +30,12 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 3  
     * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
     
-    <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python  
+    <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
+    
+    * [Cours en version pdf](https://drive.google.com/file/d/15ZaM_MRG8d_vDRYgVvi8Oajp8sPxZUPX/view?usp=sharing)  
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 4  
+    * [Mini-projet 3 en version pdf]()
+    
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
     
