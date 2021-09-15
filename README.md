@@ -22,13 +22,13 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 2  
-    * [Mini-projet 1 en version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
+    * [Mini-projet 2 en version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
       
     <ins>Séance 3 :</ins> variables et trace d'un programme ; découverte de la fonction "range"
     
     * [Cours en version pdf](https://drive.google.com/file/d/144VIk7qDw8QASHqXfgcjyW9UDWQ8xbB_/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 3  
-    * [Mini-projet 1 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
+    * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
       
     <ins>Séance 4 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python
     <ins>Séance 5 :</ins> boucle non bornées ; instruction "while" en langage Python
