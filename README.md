@@ -16,3 +16,7 @@
     Séance 3 : variables et trace d'un programme ; découverte de la fonction "range"  
     Séance 4 : instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     Séance 5 : boucle non bornées ; instruction "while" en langage Python  
+
+2. Séquence 2 : fonctions et portée de variable ; modularité
+3. Séquence 3 : tableaux à une dimension ; liste et identifiant en langage Python
+4. Séquence 4 : représentation binaire d'un nombre entier ; découverte du langage C++
