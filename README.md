@@ -10,7 +10,7 @@
 
 # Progression
 
-* #### <ins>Séquence 1 :</ins> bases de programmation en Python
+* #### <ins>Séquence 1 :</ins> bases de programmation en langage Python
 
     <ins>Séance 1 :</ins> premiers problèmes d'algorithmique et affichage de texte  
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python  
