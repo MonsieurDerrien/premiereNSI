@@ -1,4 +1,4 @@
-> Bienvenue sur le site de la première NSI de M. Derrien.  
+> Bienvenue sur le site du groupe de première option NSI de M. Derrien.  
 > Tu y trouveras les documents utilisés en classe (cours, TP, minis-projets et fiches d'exercices).  
 > Les cours, les TP et les minis-projets ne seront pas distribués sous format papier car ils contiennent de nombreux liens uniquement accessibles par le biais d'une connection internet.  
 > C'est ici que tu devras venir les consulter ou les télécharger.  
