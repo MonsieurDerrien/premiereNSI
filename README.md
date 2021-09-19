@@ -1,4 +1,4 @@
-> Bienvenue sur le site du groupe de première option NSI de M. Derrien.  
+> Bienvenue sur le site du groupe de première option NSI de M. [)3ЯЯ13|\|.
 > Tu y trouveras les documents utilisés en classe (cours, TP, minis-projets et fiches d'exercices).  
 > Les cours, les TP et les minis-projets ne seront pas distribués sous format papier car ils contiennent de nombreux liens uniquement accessibles par le biais d'une connection internet.  
 > C'est ici que tu devras venir les consulter ou les télécharger.  
@@ -34,7 +34,7 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/15ZaM_MRG8d_vDRYgVvi8Oajp8sPxZUPX/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 4  
-    * [Mini-projet 3 en version pdf]()
+    * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
