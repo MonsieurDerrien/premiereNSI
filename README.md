@@ -15,25 +15,25 @@
     <ins>Séance 1 :</ins> premiers problèmes d'algorithmique et affichage de texte
     
     * [Cours en version pdf](https://drive.google.com/file/d/159VH6SermMfvKZ_Ltf9yluzVYapUzZnT/view?usp=sharing)  
-    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 1  
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
     * [Mini-projet 1 en version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
       
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python
     
     * [Cours en version pdf](https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In/view?usp=sharing)  
-    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 2  
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 2  
     * [Mini-projet 2 en version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
       
     <ins>Séance 3 :</ins> variables et trace d'un programme ; découverte de la fonction "range"
     
     * [Cours en version pdf](https://drive.google.com/file/d/144VIk7qDw8QASHqXfgcjyW9UDWQ8xbB_/view?usp=sharing)  
-    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 3  
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 3  
     * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
     
     * [Cours en version pdf](https://drive.google.com/file/d/15ZaM_MRG8d_vDRYgVvi8Oajp8sPxZUPX/view?usp=sharing)  
-    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : chapitre 1 niveau 4  
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
