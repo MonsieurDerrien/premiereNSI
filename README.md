@@ -12,7 +12,7 @@
 
 * #### <ins>Séquence 1 :</ins> bases de programmation en langage Python
 
-    [Comment programmer à l'extérieur de la classe ?]()
+    [Comment programmer à l'extérieur de la classe ?](https://drive.google.com/file/d/1B4ouV-KZn0yZ6UfIqkVKzYnl--0Cr4Uo/view?usp=sharing)
     * [fichier de configuration de sublimText](https://drive.google.com/file/d/18qp3-mLbpiaVLa2xjkWb0vZYdxbORPE0/view?usp=sharing)
 
     <ins>Séance 1 :</ins> premiers problèmes d'algorithmique et affichage de texte
