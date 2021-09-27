@@ -20,6 +20,8 @@
     * [Cours en version pdf](https://drive.google.com/file/d/159VH6SermMfvKZ_Ltf9yluzVYapUzZnT/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
     * [Mini-projet 1 en version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
+    * [Savoir faire interrogation flash n°1](https://drive.google.com/file/d/18Akan7jfOF6zDFbeQgq46lapQVAux1CJ/view?usp=sharing)
+    * [Correction et barème interrogation flash n°1](https://drive.google.com/file/d/1C0MbS8xNOovSd5NbwDUcJi_blw_3cwuo/view?usp=sharing)
       
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python
     
