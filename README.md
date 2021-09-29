@@ -42,6 +42,10 @@
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
+    
+    * [Cours en version pdf](https://drive.google.com/file/d/1DFkSlsgtLzjEC89zxtJrT0ivn97DFvhn/view?usp=sharing)
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 5
+    
     <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
     
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité
