@@ -33,7 +33,7 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/144VIk7qDw8QASHqXfgcjyW9UDWQ8xbB_/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 3 
-    * [TD en version pdf](https://drive.google.com/file/d/1F0bp2gxzl0CRJDnHRcD9RgxWDJkRa85h/view?usp=sharing)   
+    * [Variables et boucles bornées fiche 1](https://drive.google.com/file/d/1F0bp2gxzl0CRJDnHRcD9RgxWDJkRa85h/view?usp=sharing)   
     * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
