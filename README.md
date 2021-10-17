@@ -34,6 +34,7 @@
     * [Cours en version pdf](https://drive.google.com/file/d/144VIk7qDw8QASHqXfgcjyW9UDWQ8xbB_/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 3 
     * [Variables et boucles bornées fiche 1](https://drive.google.com/file/d/1F0bp2gxzl0CRJDnHRcD9RgxWDJkRa85h/view?usp=sharing)   
+    * [Savoir faire interrogation flash n°2](https://drive.google.com/file/d/1dI8fvlPmsbaaWV9P-LcycNqlwEWb9RzM/view?usp=sharing)
     * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
@@ -43,8 +44,8 @@
       <div style="display:flex;align-items:center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:40px;height:40px;vertical-align:middle;" />
         <span>
-          <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >Un algorithme à comprendre et à apprendre</a><br>
-          <a href = "https://drive.google.com/file/d/1d6ZQGKEiLLz9I6N_2aOZ73zUsqF__HoG/view?usp=sharing" target = "_blank" >Une instruction ajoutée à cet algorithme permet un calcul de moyenne</a>
+          <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >Un programme à comprendre et à apprendre</a><br>
+          <a href = "https://drive.google.com/file/d/1d6ZQGKEiLLz9I6N_2aOZ73zUsqF__HoG/view?usp=sharing" target = "_blank" >Une instruction ajoutée à ce programme permet un calcul de moyenne non coefficientée</a>
         </span>
       </div>
     * [lecture de l'entrée fiche 1](https://drive.google.com/file/d/1cr2uJYdEfmgBuRxg0Eo-luSDCzCumayv/view?usp=sharing)
