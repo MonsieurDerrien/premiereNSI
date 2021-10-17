@@ -40,7 +40,7 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/15ZaM_MRG8d_vDRYgVvi8Oajp8sPxZUPX/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
-      <div class="pull-left"><img src="https://drive.google.com/file/d/1coVh5h-rNV5k8FqFAZKHe3W7OgiFUDFm/view?usp=sharing" style="width:40px;height:40px;" />
+      <div class="pull-left"><img src="https://drive.google.com/file/d/1coVh5h-rNV5k8FqFAZKHe3W7OgiFUDFm/view" style="width:40px;height:40px;" />
       <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >un algorithme à comprendre et à apprendre</a>
       </div>           
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
