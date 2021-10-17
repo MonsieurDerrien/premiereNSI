@@ -42,12 +42,10 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
       <div class="pull-left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:40px;height:40px;vertical-align:middle;" />
-        <span style = "vertical-align:middle">
+        <div style = "vertical-align:middle">
           <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >Un algorithme à comprendre et à apprendre</a><br>
-        </span>
-        <span style = "vertical-align:middle">
           <a href = "https://drive.google.com/file/d/1d6ZQGKEiLLz9I6N_2aOZ73zUsqF__HoG/view?usp=sharing" target = "_blank" >Une instruction ajoutée à cet algorithme permet un calcul de moyenne</a>
-        </span>
+        </div>
       </div>
     * [lecture de l'entrée fiche 1](https://drive.google.com/file/d/1cr2uJYdEfmgBuRxg0Eo-luSDCzCumayv/view?usp=sharing)
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
