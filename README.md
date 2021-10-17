@@ -42,7 +42,6 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
       ![](premiereNSI/important.png)
       [Un algorithme à comprendre et à apprendre : calculer une somme de nombres entrés au clavier](https://www.youtube.com/watch?v=crTczHyvLa0)
-      </div>
       
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
