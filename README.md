@@ -42,7 +42,7 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
       <div class="pull-left"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:40px;height:40px;" />
       <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >un algorithme à comprendre et à apprendre</a>
-      </div>           
+      </div>
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
