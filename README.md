@@ -40,10 +40,9 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/15ZaM_MRG8d_vDRYgVvi8Oajp8sPxZUPX/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 4  
-      <div class="pull-left">
+      <div style="display:flex;align-items:center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:40px;height:40px;vertical-align:middle;" />
-        <div style = "display:table">
-          <span style = "display:table-cell;vertical-align:middle;">
+        <span>
           <a href = "https://www.youtube.com/watch?v=crTczHyvLa0" target = "_blank" >Un algorithme à comprendre et à apprendre</a><br>
           <a href = "https://drive.google.com/file/d/1d6ZQGKEiLLz9I6N_2aOZ73zUsqF__HoG/view?usp=sharing" target = "_blank" >Une instruction ajoutée à cet algorithme permet un calcul de moyenne</a>
         </span>
