@@ -19,15 +19,17 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/159VH6SermMfvKZ_Ltf9yluzVYapUzZnT/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
-    * [Mini-projet 1 en version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
     * [Savoir faire interrogation flash n°1](https://drive.google.com/file/d/18Akan7jfOF6zDFbeQgq46lapQVAux1CJ/view?usp=sharing)
     * [Correction et barème interrogation flash n°1](https://drive.google.com/file/d/1C0MbS8xNOovSd5NbwDUcJi_blw_3cwuo/view?usp=sharing)
-      
+    
+    <ins>Mini-projet 1</ins>[version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
+    
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python
     
     * [Cours en version pdf](https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 2  
-    * [Mini-projet 2 en version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
+    
+    <ins>Mini-projet 2</ins>[version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
       
     <ins>Séance 3 :</ins> variables et trace d'un programme ; découverte de la fonction "range"
     
@@ -36,7 +38,9 @@
     * [Variables et boucles bornées fiche 1](https://drive.google.com/file/d/1F0bp2gxzl0CRJDnHRcD9RgxWDJkRa85h/view?usp=sharing)   
     * [Correction variables et boucles bornées fiche 1](https://drive.google.com/file/d/1bPEzjcpSS-ZQhSMJ-XC53h-OlbXffcET/view?usp=sharing)
     * [Savoir faire interrogation flash n°2](https://drive.google.com/file/d/1dI8fvlPmsbaaWV9P-LcycNqlwEWb9RzM/view?usp=sharing)
-    * [Mini-projet 3 en version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
+    * [Correction et barème interrogation flash n°2](https://drive.google.com/file/d/1djgqYev7oGXBp5mF9SACRXsPnLGeZZtk/view?usp=sharing)
+    
+    <ins>Mini-projet 3</ins>[version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
     
@@ -50,9 +54,10 @@
         </span>
       </div>
     * [lecture de l'entrée fiche 1](https://drive.google.com/file/d/1cr2uJYdEfmgBuRxg0Eo-luSDCzCumayv/view?usp=sharing)
-    * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
-    <ins>Soutenance projet</ins> [barème et attendus](https://drive.google.com/file/d/1dRq5N2BAIRjbEl609KB8iTj3fhbjBBig/view?usp=sharing)
+    <ins>Mini-projet 4</ins>[version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
+    
+    <ins>Soutenance minis-projets 1, 2, 3 et 4</ins> [barème et attendus](https://drive.google.com/file/d/1dRq5N2BAIRjbEl609KB8iTj3fhbjBBig/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     
