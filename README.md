@@ -52,6 +52,8 @@
     * [lecture de l'entrée fiche 1](https://drive.google.com/file/d/1cr2uJYdEfmgBuRxg0Eo-luSDCzCumayv/view?usp=sharing)
     * [Mini-projet 4 en version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
     
+    <ins>Soutenance projet</ins> [barème et attendus](https://drive.google.com/file/d/1dRq5N2BAIRjbEl609KB8iTj3fhbjBBig/view?usp=sharing)
+    
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     
     * [Cours en version pdf](https://drive.google.com/file/d/1DFkSlsgtLzjEC89zxtJrT0ivn97DFvhn/view?usp=sharing)
