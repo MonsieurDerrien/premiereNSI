@@ -63,10 +63,18 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/1DFkSlsgtLzjEC89zxtJrT0ivn97DFvhn/view?usp=sharing)
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 5
+    * [instructions conditionnelles fiche 1](https://drive.google.com/file/d/1e3rPJ2giuOnF5839yvHSEhH6iBeo9PHO/view?usp=sharing)
+
+  <ins>Mini-projet 5</ins> [version pdf](https://drive.google.com/file/d/1rVApODlwhQeqhY81pMDj-lu1443W9BoG/view?usp=sharing)
     
     <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
     
+    * [Cours en version pdf](https://drive.google.com/file/d/1gQmnXfbdaarbmLuM4juk20wpfiLC81l0/view?usp=sharing)
+    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8
+    
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité
+  
+  * [Cours en version pdf](https://drive.google.com/file/d/1rOh5clccWS1agktORbAR7XyZJThZ7MNc/view?usp=sharing)
 
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
 
