@@ -67,12 +67,12 @@
 
   <ins>Mini-projet 5</ins> [version pdf](https://drive.google.com/file/d/1rVApODlwhQeqhY81pMDj-lu1443W9BoG/view?usp=sharing)
     
-    <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python ; tests d'un programme
+    <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python 
     
     * [Cours en version pdf](https://drive.google.com/file/d/1gQmnXfbdaarbmLuM4juk20wpfiLC81l0/view?usp=sharing)
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8
     
-* #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité
+* #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests
   
   * [Cours en version pdf](https://drive.google.com/file/d/1rOh5clccWS1agktORbAR7XyZJThZ7MNc/view?usp=sharing)
 
