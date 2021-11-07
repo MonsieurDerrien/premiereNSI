@@ -71,12 +71,13 @@
     
     * [Cours en version pdf](https://drive.google.com/file/d/1gQmnXfbdaarbmLuM4juk20wpfiLC81l0/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8  
-    *
+  
+  
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
   
   * [Cours en version pdf](https://drive.google.com/file/d/1rOh5clccWS1agktORbAR7XyZJThZ7MNc/view?usp=sharing)  
-  * 
-    
+  
+      
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
 
 * #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier ; découverte du langage C++
