@@ -23,6 +23,10 @@
     * [Correction et barème interrogation flash n°1](https://drive.google.com/file/d/1C0MbS8xNOovSd5NbwDUcJi_blw_3cwuo/view?usp=sharing)
     
     <ins>Mini-projet 1</ins> [version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
+    * [Correction exercice 1](https://drive.google.com/file/d/18S36kLOo36bmJgRHIhul20JVOxPoZII6/view?usp=sharing)
+    * [Correction exercice 2](https://drive.google.com/file/d/1ujmorYdNs9w9VnAV0tL_746rtw432KbI/view?usp=sharing)
+    * [Correction exercice bonus](https://drive.google.com/file/d/1sah2dfgiNmBXwHJrp8SyzFGFMkzff2eL/view?usp=sharing)
+    * [Explications méthode 2 de l'exercice bonus](https://drive.google.com/file/d/1kZLx0fJuDtOmSPuNdADBW6M5xHvjdI5b/view?usp=sharing)
     
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python
     
@@ -30,6 +34,11 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 2  
     
     <ins>Mini-projet 2</ins> [version pdf](https://drive.google.com/file/d/1hIQ8zQ9-wGyD4ZQlYU3oTYMZsAtiUmo6/view?usp=sharing)
+    * [Correction exercice 1](https://drive.google.com/file/d/1He9FtmPVe6YVuBysf-UTGDDdaOnKO9z1/view?usp=sharing)
+    * [Correction exercice 2](https://drive.google.com/file/d/1k62PPFQqVOBc4S5C0so788QGGow9LzBe/view?usp=sharing)
+    * [Correction exercice 3](https://drive.google.com/file/d/1Q4RUGZ6RL9OD7WTsi2BDov5OOLnuhMqt/view?usp=sharing)
+    * [Correction exercice 4](https://drive.google.com/file/d/1i_amEL_cmcvAmGMSJTTCEkpEEYbPPTDN/view?usp=sharing)
+    * [Correction exercice bonus](https://drive.google.com/file/d/1_VXaQ1XgiKubuLat4xGWNz-7jDzjdM_f/view?usp=sharing)
       
     <ins>Séance 3 :</ins> variables et trace d'un programme ; découverte de la fonction "range"
     
@@ -41,6 +50,13 @@
     * [Correction et barème interrogation flash n°2](https://drive.google.com/file/d/1djgqYev7oGXBp5mF9SACRXsPnLGeZZtk/view?usp=sharing)
     
     <ins>Mini-projet 3</ins> [version pdf](https://drive.google.com/file/d/14dHlKJXaRlpbLr4DXlv7Qby2xcj7cmyU/view?usp=sharing)
+    * [Correction exercice 1](https://drive.google.com/file/d/1-PuLIMNwP-ObLr-A0vMN0WTf0gAs_-sp/view?usp=sharing)
+    * [Correction exercice 2](https://drive.google.com/file/d/1-UEvuM6F0vyyBB7FvaYJI5CSCtMrIIVG/view?usp=sharing)
+    * [Correction exercice 3](https://drive.google.com/file/d/1-VmfRPbaoYKeD7lkVJFKrWoURqnTx1uG/view?usp=sharing)
+    * [Correction exercice bonus](https://drive.google.com/file/d/1-WEySzFFM5a6IX-bVKie87cnJYnoIOAV/view?usp=sharing)
+    * [Correction exercice bonus spirale triangulaire](https://drive.google.com/file/d/1-WaQecDVO2OJy7NB0qUEgvvQpXiFDfRO/view?usp=sharing)
+    * [Correction exercice bonus spirale pentagonale](https://drive.google.com/file/d/1-d_AsVlLEMD-_a6tksbeSARFHB2aKusf/view?usp=sharing)
+    * [Correction exercice bonus spirale hexagonale](https://drive.google.com/file/d/1-kr1DpSpBnZLo1mNznZkAhaTEdScnvN5/view?usp=sharing)
     
     <ins>Séance 4 :</ins> lecture de l'entrée ; fonction "input(...)" en langage Python
     
@@ -56,7 +72,12 @@
     * [lecture de l'entrée fiche 1](https://drive.google.com/file/d/1cr2uJYdEfmgBuRxg0Eo-luSDCzCumayv/view?usp=sharing)
     
     <ins>Mini-projet 4</ins> [version pdf](https://drive.google.com/file/d/16dJ2GnHviVN_rqFD9rj8r81oBam03ToU/view?usp=sharing)
-    
+    * [Correction exercice 1](https://drive.google.com/file/d/16jjobkuJsTfJcw5RahP4dYGe13SlOZ87/view?usp=sharing)
+    * [Correction exercice 2](https://drive.google.com/file/d/16gTP5DT2TsaOQT9pqqLYpmqSyKvdU5Vu/view?usp=sharing)
+    * [Correction exercice 3 version 1](https://drive.google.com/file/d/16fwvwWQyYErWyGp3xVSHqiIjmWoB-8dB/view?usp=sharing)
+    * [Correction exercice 3 version 2](https://drive.google.com/file/d/16ds7h6A5tSb0QvNQjSDV2iSQ8f7tetMS/view?usp=sharing)
+    * [Correction exercice bonus](https://drive.google.com/file/d/16bGZTfxRi6YsndKRl-FILjiAQZxJYAaU/view?usp=sharing)
+ 
     <ins>Soutenance minis-projets 1, 2, 3 et 4</ins> [barème et attendus](https://drive.google.com/file/d/1dRq5N2BAIRjbEl609KB8iTj3fhbjBBig/view?usp=sharing)
     
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
