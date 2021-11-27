@@ -94,7 +94,7 @@
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8
     * [Boucles conditionnelles fiche 1](https://drive.google.com/file/d/1smY_9ILbmOJusvJw2LTRrbKZL3zhKYp-/view?usp=sharing)
 
- <ins>Mini-projet 6</ins> [version pdf](https://drive.google.com/file/d/1tW4H19SrGTPpxqs50XX-eY65lUt_tk-m/view?usp=sharing)
+   <ins>Mini-projet 6</ins> [version pdf](https://drive.google.com/file/d/1tW4H19SrGTPpxqs50XX-eY65lUt_tk-m/view?usp=sharing)
 
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
 
