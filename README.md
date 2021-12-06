@@ -98,7 +98,7 @@
 
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
 
-  * [Cours en version pdf](https://drive.google.com/file/d/1rOh5clccWS1agktORbAR7XyZJThZ7MNc/view?usp=sharing)
+ 
 
 
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
