@@ -105,6 +105,12 @@
 
 * #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier ; découverte du langage C++
 
+    <ins>Séance 1 :</ins> écriture d'un nombre entier naturel en base 2
+    * [Cours en version pdf](https://drive.google.com/file/d/1wXwQs6xcJdRCYqYt7S6bI2h9bL1MwoWb/view?usp=sharing)
+    
+    <ins>Séance 2 :</ins> addition et multiplication en base 2
+    * [Cours en version pdf](https://drive.google.com/file/d/1xG91tV_NTcExyIM-hk_vrKxJtYRc25Zx/view?usp=sharing)
+
 * #### <ins>Séquence 5 :</ins> recherche séquentielle et recherche dichotomique dans un tableau
 
 * #### <ins>Séquence 6 :</ins> structure d'une page web
