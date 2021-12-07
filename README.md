@@ -110,6 +110,7 @@
     
     <ins>Séance 2 :</ins> addition et multiplication en base 2
     * [Cours en version pdf](https://drive.google.com/file/d/1xG91tV_NTcExyIM-hk_vrKxJtYRc25Zx/view?usp=sharing)
+   
 
 * #### <ins>Séquence 5 :</ins> recherche séquentielle et recherche dichotomique dans un tableau
 
