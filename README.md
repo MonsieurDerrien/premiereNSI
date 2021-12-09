@@ -93,6 +93,15 @@
     * [Cours en version pdf](https://drive.google.com/file/d/1gQmnXfbdaarbmLuM4juk20wpfiLC81l0/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8
     * [Boucles conditionnelles fiche 1](https://drive.google.com/file/d/1smY_9ILbmOJusvJw2LTRrbKZL3zhKYp-/view?usp=sharing)
+    * <div style="display:flex;align-items:center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:40px;height:40px;vertical-align:middle;" />
+        <span>
+          <a href = "https://youtu.be/B4UPVn0utq8" target = "_blank" >Déterminer le maximum d'une liste de nombres</a><br>
+          <a href = "" target = "_blank" >Ce programme peut également être modifié pour calculer un minimum</a>
+          <a href = "https://youtu.be/FcxaZ4cnoio" target = "_blank" >Utilisation d'une valeur sentinelle sans variable booléenne</a><br>
+          <a href = "https://youtu.be/nf3n70EARSY" target = "_blank" >Utilisation d'une valeur sentinelle avec variable booléenne</a><br>
+        </span>
+      </div>
 
    <ins>Mini-projet 6</ins> [version pdf](https://drive.google.com/file/d/1tW4H19SrGTPpxqs50XX-eY65lUt_tk-m/view?usp=sharing)
 
