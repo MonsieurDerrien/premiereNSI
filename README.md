@@ -97,7 +97,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:60px;height:80px;vertical-align:middle;" />
         <span>
           <a href = "https://youtu.be/B4UPVn0utq8" target = "_blank" >Déterminer le maximum d'une liste de nombres</a><br> 
-          <a href = "" target = "_blank" >Ce programme peut également être modifié pour calculer un minimum</a><br>
+          <a href = "https://drive.google.com/file/d/10m15dT0OP37gA7jCiCTzbzrU7d56-Ydg/view?usp=sharing" target = "_blank" >Ce programme peut également être modifié pour calculer un minimum</a><br>
           <a href = "https://youtu.be/FcxaZ4cnoio" target = "_blank" >Utilisation d'une valeur sentinelle sans variable booléenne</a><br>
           <a href = "https://youtu.be/nf3n70EARSY" target = "_blank" >Utilisation d'une valeur sentinelle avec variable booléenne</a>
         </span>
