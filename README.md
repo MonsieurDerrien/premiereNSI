@@ -106,10 +106,14 @@
    <ins>Mini-projet 6</ins> [version pdf](https://drive.google.com/file/d/1tW4H19SrGTPpxqs50XX-eY65lUt_tk-m/view?usp=sharing)
 
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
-
  
-
-
+  * [TP 1](https://drive.google.com/file/d/17G4WmRtxyT80MgbX80ydzuw5dh_4LOmO/view?usp=sharing)
+  * [TP 2](https://drive.google.com/file/d/1E3iRRA2uveLRIRk9UhYh6cc9i4wYWK0m/view?usp=sharing)
+  * [Cours en version pdf]()
+  * [Fonctions fiche 1](https://drive.google.com/file/d/12IlQzGZk_4NfQuaKQsYYY1nDRv2G6ap_/view?usp=sharing)
+  * [Fonctions fiche 2](https://drive.google.com/file/d/16y0tL-8kzqRQMsu6Ii1i9WRfxN9CKGnM/view?usp=sharing)
+  * [Fonctions fiche 3](https://drive.google.com/file/d/16VE762NXG_lw8UPw-2l_eq7RV_GRtXkN/view?usp=sharing)
+ 
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
 
 * #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier ; découverte du langage C++
@@ -124,7 +128,14 @@
     * [fiche d'entraînement](https://drive.google.com/file/d/1zhc1_xcISp6FLwnOMfuG0bcpBkt9djWh/view?usp=sharing)
     * [Correction de la fiche d'entraînement](https://drive.google.com/file/d/1zdPxdp81GI32PD7sf5sQ9h3dvYluLkGL/view?usp=sharing)
    
-
+   <ins>Séance 3 :</ins> écriture d'un nombre entier naturel en base 16 et en base 8
+    
+    * [Cours en version pdf](https://drive.google.com/file/d/1C5d4cpbDoZhdeYtBnit3vXN8P6d4Fzey/view?usp=sharing)
+    
+   <ins>Séance 4 :</ins> codage des nombres entiers relatifs en complément à 2
+    
+    * [Cours en version pdf](https://drive.google.com/file/d/19S235UDGFp2ypxFSGuO5LFfNKsOt17s-/view?usp=sharing)
+    
 * #### <ins>Séquence 5 :</ins> recherche séquentielle et recherche dichotomique dans un tableau
 
 * #### <ins>Séquence 6 :</ins> structure d'une page web
