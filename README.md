@@ -130,11 +130,11 @@
    
    <ins>Séance 3 :</ins> écriture d'un nombre entier naturel en base 16 et en base 8
     
-    * [Cours en version pdf](https://drive.google.com/file/d/1C5d4cpbDoZhdeYtBnit3vXN8P6d4Fzey/view?usp=sharing)
+    * [Cours en version pdf](https://drive.google.com/file/d/19S235UDGFp2ypxFSGuO5LFfNKsOt17s-/view?usp=sharing)
     
    <ins>Séance 4 :</ins> codage des nombres entiers relatifs en complément à 2
     
-    * [Cours en version pdf](https://drive.google.com/file/d/19S235UDGFp2ypxFSGuO5LFfNKsOt17s-/view?usp=sharing)
+    * [Cours en version pdf](https://drive.google.com/file/d/1C5d4cpbDoZhdeYtBnit3vXN8P6d4Fzey/view?usp=sharing)
     
 * #### <ins>Séquence 5 :</ins> recherche séquentielle et recherche dichotomique dans un tableau
 
