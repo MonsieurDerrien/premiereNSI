@@ -108,7 +108,6 @@
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
  
   * [TP 1](https://drive.google.com/file/d/17G4WmRtxyT80MgbX80ydzuw5dh_4LOmO/view?usp=sharing)
-    [video TP 1](https://drive.google.com/file/d/13Dh_HCr9H9snAGkjK1VsAtcJZvqhY3_J/view?usp=sharing)
   * [TP 2](https://drive.google.com/file/d/1E3iRRA2uveLRIRk9UhYh6cc9i4wYWK0m/view?usp=sharing)
   * [Cours en version pdf]()
   * [Fonctions fiche 1](https://drive.google.com/file/d/12IlQzGZk_4NfQuaKQsYYY1nDRv2G6ap_/view?usp=sharing)
