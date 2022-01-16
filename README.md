@@ -115,7 +115,7 @@
   * [Fonctions fiche 3](https://drive.google.com/file/d/16VE762NXG_lw8UPw-2l_eq7RV_GRtXkN/view?usp=sharing)
  
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
-  * [TP 2](https://drive.google.com/file/d/1IwMondI5eR4C71AhKZkjRMPLiB1_0qn8/view?usp=sharing)
+  * [TP 1](https://drive.google.com/file/d/1IE28xsJRI2PYYp87NNNxHVQ2iCj79u1Z#Boucles_for/view?usp=sharing)
  
 * #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier ; découverte du langage C++
 
