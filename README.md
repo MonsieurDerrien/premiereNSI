@@ -29,7 +29,14 @@
     * [Explications méthode 2 de l'exercice bonus](https://drive.google.com/file/d/1kZLx0fJuDtOmSPuNdADBW6M5xHvjdI5b/view?usp=sharing)
     
     <ins>Séance 2 :</ins> boucles bornées ; instruction "for ... in range(...)" en langage Python
-    <embed src=https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In width=800 height=500 type='application/pdf'/></embed>
+    <embed src="https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In" width=800 height=500 type='application/pdf'/></embed>
+    <p style="text-align: center;">
+<object data="https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In" type="application/pdf" width="500px" height="450px">
+    <embed src="https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In" type="application/pdf">
+        
+    </embed>
+</object>
+</p>
     * [Cours en version pdf](https://drive.google.com/file/d/1gsrC7dh2orMhyaWrJjEkN0dndyX3j2In/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 2  
     
