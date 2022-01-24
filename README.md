@@ -114,12 +114,12 @@
   * [Fonctions fiche 2](https://drive.google.com/file/d/16y0tL-8kzqRQMsu6Ii1i9WRfxN9CKGnM/view?usp=sharing)
   * [Fonctions fiche 3](https://drive.google.com/file/d/16VE762NXG_lw8UPw-2l_eq7RV_GRtXkN/view?usp=sharing)
  
-* #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python
+* #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python ; découverte du langage C++
   * [TP 1]()
   * [TP 2]()
   * [TP 3]()
  
-* #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier ; découverte du langage C++
+* #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier
 
     <ins>Séance 1 :</ins> écriture d'un nombre entier naturel en base 2
     
