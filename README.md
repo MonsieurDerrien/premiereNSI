@@ -109,7 +109,7 @@
  
   * [TP 1](https://drive.google.com/file/d/17G4WmRtxyT80MgbX80ydzuw5dh_4LOmO/view?usp=sharing)
   * [TP 2](https://drive.google.com/file/d/1E3iRRA2uveLRIRk9UhYh6cc9i4wYWK0m/view?usp=sharing)
-  * [Cours en version pdf](https://drive.google.com/file/d/1FtRI1hKhi5B0r_OuHqQsEO5kHFDSOgAK/view?usp=sharing)
+  * [Cours en version pdf]()
   * [Fonctions fiche 1](https://drive.google.com/file/d/12IlQzGZk_4NfQuaKQsYYY1nDRv2G6ap_/view?usp=sharing)
   * [Fonctions fiche 2](https://drive.google.com/file/d/16y0tL-8kzqRQMsu6Ii1i9WRfxN9CKGnM/view?usp=sharing)
   * [Fonctions fiche 3](https://drive.google.com/file/d/16VE762NXG_lw8UPw-2l_eq7RV_GRtXkN/view?usp=sharing)
