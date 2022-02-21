@@ -115,6 +115,7 @@
   * [Fonctions fiche 2](https://drive.google.com/file/d/16y0tL-8kzqRQMsu6Ii1i9WRfxN9CKGnM/view?usp=sharing)
   * [[Correction fiche 2]](correction_fonctions_fiche2.md)
   * [Fonctions fiche 3](https://drive.google.com/file/d/16VE762NXG_lw8UPw-2l_eq7RV_GRtXkN/view?usp=sharing)
+  * [[Correction fiche 3]](correction_fonctions_fiche3.md)
  
 * #### <ins>Séquence 3 :</ins> tableaux à une dimension ; liste et identifiant en langage Python ; découverte du langage C++
   * [TP 1](https://drive.google.com/file/d/1IE28xsJRI2PYYp87NNNxHVQ2iCj79u1Z/view?usp=sharing)
