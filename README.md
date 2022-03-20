@@ -122,7 +122,7 @@
   * [TP 1](https://drive.google.com/file/d/1IE28xsJRI2PYYp87NNNxHVQ2iCj79u1Z/view?usp=sharing)
   * [TP 2](https://drive.google.com/file/d/1QQqZeBsem0dfm1JftLVfs3w17lCr5VmA/view?usp=sharing)
   * [TP 3](https://drive.google.com/file/d/1YQIaLH8QxAzweD7v350RaHw_iz1nLFR_/view?usp=sharing)
- 
+  * [Cours en version pdf](https://drive.google.com/file/d/1a9g32Mn7HlQSZ0nknWxo_qjucqF_ov99/view?usp=sharing)
 * #### <ins>Séquence 4 :</ins> représentation binaire d'un nombre entier
 
     <ins>Séance 1 :</ins> écriture d'un nombre entier naturel en base 2
