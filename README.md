@@ -93,6 +93,7 @@
     * [Cours en version pdf](https://drive.google.com/file/d/1gQmnXfbdaarbmLuM4juk20wpfiLC81l0/view?usp=sharing)  
     * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 8
     * [Boucles conditionnelles fiche 1](https://drive.google.com/file/d/1smY_9ILbmOJusvJw2LTRrbKZL3zhKYp-/view?usp=sharing)
+    * [Correction boucles conditionnelles fiche 1](https://drive.google.com/file/d/1bxwi0ismSm-uk1NQh0c-iNVTa1nHbxk6/view?usp=sharing)
       <div style="display:flex;align-items:center;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Nuvola_apps_important.svg" style="width:60px;height:80px;vertical-align:middle;" />
         <span>
