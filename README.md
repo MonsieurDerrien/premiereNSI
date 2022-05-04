@@ -168,6 +168,7 @@
 * #### <ins>Séquence 16 :</ins> découverte des systèmes d'exploitation libres
 
 * #### <ins>Séquence 17 :</ins> p-uplets nommés ; dictionnaire en langage Python
+  * [TP 1](https://drive.google.com/file/d/1jojXHk8mBeqUrv39QdQhzPKqx7GDIHYF/view?usp=sharing)  
 
 * #### <ins>Séquence 18 :</ins> traitements de données en table
 
