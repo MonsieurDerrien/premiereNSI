@@ -164,11 +164,12 @@
 * #### <ins>Séquence 14 :</ins> tri par insertion et tri par sélection
 
 * #### <ins>Séquence 15 :</ins> p-uplets ; tuple et affectation multiple en langage Python
-  * [TP 1](https://drive.google.com/file/d/1jojXHk8mBeqUrv39QdQhzPKqx7GDIHYF/view?usp=sharing)
+  * [TP](https://drive.google.com/file/d/1jojXHk8mBeqUrv39QdQhzPKqx7GDIHYF/view?usp=sharing)
 
 * #### <ins>Séquence 16 :</ins> découverte des systèmes d'exploitation libres
 
 * #### <ins>Séquence 17 :</ins> p-uplets nommés ; dictionnaire en langage Python
+  * [TP](https://drive.google.com/file/d/1l5RWS6TBEJUBwyMcysROHlp6N7UQWdhY/view?usp=sharing) 
 
 * #### <ins>Séquence 18 :</ins> traitements de données en table
 
