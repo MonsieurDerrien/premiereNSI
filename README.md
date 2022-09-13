@@ -72,3 +72,4 @@
 * #### <ins>Séquence 21 :</ins> interaction client-serveur et protocole http ; découverte du javascript
 
 * #### <ins>Séquence 22 :</ins> programmation d'une interaction homme-machine (I.H.M.)
+
