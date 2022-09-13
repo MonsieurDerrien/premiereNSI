@@ -30,8 +30,6 @@
     <ins>Séance 5 :</ins> instructions conditionnelles ; instruction "if ... else ..." en langage Python  
     
    <ins>Séance 6 :</ins> boucles non bornées ; instruction "while" en langage Python 
-    
-   <ins>Mini-projet 6</ins> [version pdf](https://drive.google.com/file/d/1tW4H19SrGTPpxqs50XX-eY65lUt_tk-m/view?usp=sharing)
 
 * #### <ins>Séquence 2 :</ins> fonctions et portée de variable ; modularité ; tests  
  
