@@ -8,8 +8,8 @@
   
 #### <ins>Premier conseil de l'année :</ins> ajoute-le à tes favoris
 
-[Création de l'environnement de programmation](https://drive.google.com/file/d/1B4ouV-KZn0yZ6UfIqkVKzYnl--0Cr4Uo/view?usp=sharing)
-    * [fichier de configuration de sublimText](https://drive.google.com/file/d/18qp3-mLbpiaVLa2xjkWb0vZYdxbORPE0/view?usp=sharing)
+[Création de l'environnement de programmation](https://drive.google.com/file/d/1B4ouV-KZn0yZ6UfIqkVKzYnl--0Cr4Uo/view?usp=sharing)  
+  * [fichier de configuration de sublimText](https://drive.google.com/file/d/18qp3-mLbpiaVLa2xjkWb0vZYdxbORPE0/view?usp=sharing)
 
 # Progression
 
