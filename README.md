@@ -17,10 +17,10 @@
 
 <ins>Séquence 1 :</ins> représentation binaire d'un nombre entier
 
-    * [Activité 1]()  
-    * [Activité 2]()  
-    * [Activité 3]()  
-    * [Fiche 1]()  
+   * [Activité 1](https://drive.google.com/file/d/1jJbAafLxOAQcPyGNUND9HLhvWgvaA6Z0/view?usp=sharing)  
+   * [Activité 2](https://drive.google.com/file/d/1yVwuKvk1fFES5AfBLAz2cLZrBX8dTScR/view?usp=sharing)  
+   * [Activité 3](https://drive.google.com/file/d/1yxcTakdc65XRFwEANFs0lV8VxEGxpUGz/view?usp=sharing)  
+   * [Fiche 1](https://drive.google.com/file/d/1yadwP0AgYTaMkUN8GSGWlc_PQdDhN7S-/view?usp=sharing)  
 
 * #### <ins>Types structurés</ins>
 
@@ -38,12 +38,12 @@
 
 <ins>Séquence 1 :</ins> premiers problèmes d'algorithmique et affichage de texte
     
-    * [Algorea]() ceinture jaune  
-    * [Cours en version pdf]()  
-    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
-    * [Défi]()  
+   * [Algorea](https://concours.castor-informatique.fr/?) ceinture jaune  
+   * [Cours en version pdf](https://drive.google.com/file/d/159VH6SermMfvKZ_Ltf9yluzVYapUzZnT/view?usp=sharing)  
+   * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
+   * [Défi](https://concours.castor-informatique.fr/?) ceinture orange peinture de motif niveau 4
     
-    <ins>Mini-projet 1</ins> [version pdf]()
+    <ins>Mini-projet 1</ins> [version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
     
 <ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
 
