@@ -13,30 +13,30 @@
 
 # Progression
 
-* #### <ins>Types de base</ins>
+* # <ins>Types de base</ins>
 
-<ins>Séquence 1 :</ins> représentation binaire d'un nombre entier
+  * #### <ins>Séquence 1 :</ins> représentation binaire d'un nombre entier
 
    * [Activité 1](https://drive.google.com/file/d/1jJbAafLxOAQcPyGNUND9HLhvWgvaA6Z0/view?usp=sharing)  
    * [Activité 2](https://drive.google.com/file/d/1yVwuKvk1fFES5AfBLAz2cLZrBX8dTScR/view?usp=sharing)  
    * [Activité 3](https://drive.google.com/file/d/1yxcTakdc65XRFwEANFs0lV8VxEGxpUGz/view?usp=sharing)  
    * [Fiche 1](https://drive.google.com/file/d/1yadwP0AgYTaMkUN8GSGWlc_PQdDhN7S-/view?usp=sharing)  
 
-* #### <ins>Types structurés</ins>
+* # <ins>Types structurés</ins>
 
 
-* #### <ins>Traitement de données en tables</ins>
+* # <ins>Traitement de données en tables</ins>
 
 
-* #### <ins>Web et I.H.M.</ins>
+* # <ins>Web et I.H.M.</ins>
 
 
-* #### <ins>Architecture matérielle et O.S.</ins>
+* # <ins>Architecture matérielle et O.S.</ins>
 
 
-* #### <ins>Langages et programmation</ins>
+* # <ins>Langages et programmation</ins>
 
-<ins>Séquence 1 :</ins> premiers problèmes d'algorithmique et affichage de texte
+  * #### <ins>Séquence 1 :</ins> premiers problèmes d'algorithmique et affichage de texte
     
    * [Algorea](https://concours.castor-informatique.fr/?) ceinture jaune  
    * [Cours en version pdf](https://drive.google.com/file/d/159VH6SermMfvKZ_Ltf9yluzVYapUzZnT/view?usp=sharing)  
@@ -45,8 +45,8 @@
     
     <ins>Mini-projet 1</ins> [version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
     
-<ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
+  * #### <ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
 
    * [Activité 1]()  
 
-* #### <ins>Algorithmes</ins>
+* # <ins>Algorithmes</ins>
