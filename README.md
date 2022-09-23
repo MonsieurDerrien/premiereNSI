@@ -47,6 +47,6 @@
     
 <ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
 
-    * [Activité 1]()  
+   * [Activité 1]()  
 
 * #### <ins>Algorithmes</ins>
