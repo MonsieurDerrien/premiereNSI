@@ -17,6 +17,7 @@
 
   * #### <ins>Séquence 1 :</ins> représentation binaire d'un nombre entier
 
+   * [Cours](https://drive.google.com/file/d/1wXwQs6xcJdRCYqYt7S6bI2h9bL1MwoWb/view?usp=sharing)
    * [Activité 1](https://drive.google.com/file/d/1jJbAafLxOAQcPyGNUND9HLhvWgvaA6Z0/view?usp=sharing)  
    * [Activité 2](https://drive.google.com/file/d/1yVwuKvk1fFES5AfBLAz2cLZrBX8dTScR/view?usp=sharing)  
    * [Activité 3](https://drive.google.com/file/d/1yxcTakdc65XRFwEANFs0lV8VxEGxpUGz/view?usp=sharing)  
