@@ -1,6 +1,0 @@
-* [Correction exercice 1]()
-* [Correction exercice 2]()
-  * [Module fonctions](https://drive.google.com/file/d/1WgA2YudLfHYfEc99wVWkpH51bkQPIv8S/view?usp=sharing)
-  * [fichier principal](https://drive.google.com/file/d/1WPOU_Z95HdezT8H4RbQyG2NuNHoXANgj/view?usp=sharing) 
-* [Correction exercice 3](https://drive.google.com/file/d/1WybvlU6KROydc5jADl-mn2U5Hi9Fi5et/view?usp=sharing)
-* [Correction exercice 4](https://drive.google.com/file/d/10tqChBwusyU5jdpxX8MTjq07IA1L7Tie/view?usp=sharing)
