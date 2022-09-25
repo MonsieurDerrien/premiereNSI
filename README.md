@@ -1,6 +1,6 @@
 > Bienvenue sur la page web du groupe de première option NSI de M. [)3ЯЯ13|\\|.
 > Tu y trouveras les documents utilisés en classe (cours, TP, minis-projets et fiches d'exercices).  
-> Les cours, les TP et les minis-projets ne seront pas distribués sous format papier car ils contiennent de nombreux liens uniquement accessibles par le biais d'une connection internet.  
+> Les cours, les TP et les minis-projets contiennent de nombreux liens uniquement accessibles par le biais d'une connection internet.  
 > C'est ici que tu devras venir les consulter ou les télécharger.  
 > Ce site fera l'objet de mises à jour régulières en fonction de notre avancement dans le programme.  
 > Il est possible que la progression soit modifiée en cours d'année, suivant l'évolution des apprentissages.  
