@@ -21,7 +21,10 @@
    * [Activité 1](https://drive.google.com/file/d/1jJbAafLxOAQcPyGNUND9HLhvWgvaA6Z0/view?usp=sharing)  
    * [Activité 2](https://drive.google.com/file/d/1yVwuKvk1fFES5AfBLAz2cLZrBX8dTScR/view?usp=sharing)  
    * [Activité 3](https://drive.google.com/file/d/1yxcTakdc65XRFwEANFs0lV8VxEGxpUGz/view?usp=sharing)  
+   * [Activité 4](https://drive.google.com/file/d/1zdmSFt30O1Nq45Q8-EGdm6RoFKNGpqQ1/view?usp=sharing) 
+   * [Correction activité 4](https://drive.google.com/file/d/1Dn8gBNC48CqltAIXXG3pRwL0ijDgt_LT/view?usp=sharing) 
    * [Fiche 1](https://drive.google.com/file/d/1yadwP0AgYTaMkUN8GSGWlc_PQdDhN7S-/view?usp=sharing)  
+   * [Correction fiche 1](https://drive.google.com/file/d/1zhNFuG4xJi-4MLQHiUMMW4orliIYkbGv/view?usp=sharing)
 
 * # <ins>Types structurés</ins>
 
@@ -44,7 +47,8 @@
    * Travail sur le [site france-IOI](http://www.france-ioi.org/) : niveau 1 chapitre 1  
    * [Défi](https://concours.castor-informatique.fr/?) ceinture orange peinture de motif niveau 4
     
-    <ins>Mini-projet 1</ins> [version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)
+    <ins>Mini-projet 1</ins> [version pdf](https://drive.google.com/file/d/1CF3xnpZLS4-tBMU_Z79t0j4XE4xt5Dvm/view?usp=sharing)  
+    [Correction mini-projet 1](./correction_mini_projet1.md)
     
   * #### <ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
 
