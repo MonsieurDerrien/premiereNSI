@@ -53,7 +53,6 @@
   * #### <ins>Séquence 2 :</ins> variables, entrées-sorties et trace d'un programme ; découverte de la fonction "range" ; fonction input( )
 
    * [Activité 1](https://drive.google.com/file/d/1ypZvyWjkX_ePIrTBHGtRb90ZHPT2UO4h/view?usp=sharing) 
-   * [TP 1](https://drive.google.com/file/d/19BTogCqzZdKdZ4cWmqmkQPWyNqrIpud0/view?usp=sharing) 
-   * <a href="./TP1.rar" download="TP1.rar">Télécharger le TP 1</a>
+   * <a href="./TP1.rar" download="TP1.zip">Télécharger le TP 1</a>
 
 * # <ins>Algorithmes</ins>
