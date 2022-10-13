@@ -54,6 +54,6 @@
 
    * [Activité 1](https://drive.google.com/file/d/1ypZvyWjkX_ePIrTBHGtRb90ZHPT2UO4h/view?usp=sharing) 
    * [TP 1](https://drive.google.com/file/d/19BTogCqzZdKdZ4cWmqmkQPWyNqrIpud0/view?usp=sharing) 
-   * [zip](https://drive.google.com/file/d/1CsvegIeQkGDelJvg2NIaw96oyvVEeTpQ/view?usp=sharing)
+   * <a href="./TP1.rar" download="TP1.rar">Télécharger le TP 1</a>
 
 * # <ins>Algorithmes</ins>
